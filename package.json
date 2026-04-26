@@ -1,0 +1,20 @@
+{
+  "name": "260325_servernpm",
+  "version": "1.0.0",
+  "description": "Criando um server com npm.",
+  "license": "MIT",
+  "author": "Vinicius Heltai",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node cli.js ./arquivos/texto.md",
+    "validar": "node cli.js ./arquivos/texto.md validar"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "jest": "^30.3.0",
+    "node-fetch": "^3.3.2",
+    "require": "^2.4.20"
+  }
+}

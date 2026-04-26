@@ -1,0 +1,23 @@
+Lista de Links [
+  {
+    FileList: [ 'https://developer.mozilla.org/pt-BR/docs/Web/API/FileList' ]
+  },
+  {
+    '<input>': [
+      'https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Input'
+    ]
+  },
+  {
+    DataTransfer: [ 'https://developer.mozilla.org/pt-BR/docs/Web/API/DataTransfer' ]
+  },
+  {
+    HTMLCanvasElement: [
+      'https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLCanvasElement'
+    ]
+  },
+  {
+    'Implementation notes': [
+      'https://developer.mozilla.org/pt-BR/docs/Web/API/File#implementation_notes'
+    ]
+  }
+]
